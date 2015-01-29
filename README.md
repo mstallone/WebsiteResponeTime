@@ -1,7 +1,7 @@
 WebsiteResponeTime
 =======
 
-# A simple python program to see a website response time.
+A simple python program to see a website response time.
 
 Usage: sudo python loadTime.py URL testTrials
 
