@@ -1,4 +1,6 @@
-import requests, datetime, sys, subprocess
+import requests, datetime
+import sys
+import subprocess
 
 subprocess.call("sudo discoveryutil udnsflushcaches", shell=True)
 
